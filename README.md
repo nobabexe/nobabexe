@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobabexe&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=nobabexe&layout=compact&theme=radical)
 
 ---
 
