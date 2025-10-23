@@ -6,12 +6,10 @@
 </p>
 
  
-### 🧩 Skills & Experience
-👑 I am Web Developer  
-🖊️ Love to write codeS  
-🎤 Like to share my knowledge   
-✅ Node.js / Express.js  
-✅ Photoshop / Illustrator / Figma  
+###
+######👑 I am Web Developer
+######🖊️ Love to write codeS
+######🎤 Like to share my knowledge 
 ---
 
 ### 👨‍💻 About Me
