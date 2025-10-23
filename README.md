@@ -32,25 +32,27 @@ I'm a Front End Web developer passionate about making error-free websites with 1
 ✅ **HTML5 / CSS3 / SASS / Bootstrap**  
 ✅ **Photoshop / Illustrator**
 
+## 📊 Most Used Languages
+
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
+
+  <table>
     <tr>
-      <td style="background: #ffffff; border-radius: 10px; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-        <h3 style="color: #1877f2; font-family: Segoe UI, sans-serif;">Most Used Languages</h3>
+      <td style="background-color:#ffffff; border-radius:10px; padding:20px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+        <h3 style="color:#1f6feb; font-family:Segoe UI, sans-serif;">Most Used Languages</h3>
 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobabexe&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1877f2&text_color=000000" width="400" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobabexe&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1f6feb&text_color=000000" width="400" alt="Top Languages">
 
-        <div align="left" style="font-family: Segoe UI, sans-serif; color: #555; font-size: 14px; margin-top: 10px;">
-          <p>🔵 <strong>PHP</strong> 42.47% &nbsp;&nbsp; 🟡 <strong>JavaScript</strong> 4.29%</p>
-          <p>🟣 <strong>CSS</strong> 32.52% &nbsp;&nbsp; 💗 <strong>SCSS</strong> 2.65%</p>
-          <p>🟠 <strong>HTML</strong> 17.71% &nbsp;&nbsp; ☕ <strong>Java</strong> 0.36%</p>
+        <div align="left" style="font-family:Segoe UI, sans-serif; color:#333; font-size:14px; margin-top:10px;">
+          <p>🔵 <b>PHP</b> 42.47% &nbsp;&nbsp; 🟡 <b>JavaScript</b> 4.29%</p>
+          <p>🟣 <b>CSS</b> 32.52% &nbsp;&nbsp; 💗 <b>SCSS</b> 2.65%</p>
+          <p>🟠 <b>HTML</b> 17.71% &nbsp;&nbsp; ☕ <b>Java</b> 0.36%</p>
         </div>
       </td>
     </tr>
   </table>
+
 </div>
-
-
 
 ---
 
