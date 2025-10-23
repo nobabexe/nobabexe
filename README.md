@@ -24,24 +24,27 @@ I'm a Front End Web developer passionate about making error-free websites with 1
 
 ---
 
-### 🧩 Skills & Experience
-✅ HTML5 / CSS3 / SASS / Bootstrap  
-✅ JavaScript (ES6+) / ReactJS  
-✅ PHP / WordPress  
-✅ Node.js / Express.js  
-✅ Photoshop / Illustrator / Figma  
+## 👩‍💻 Skills & Experience:
+
+✅ **WordPress**  
+✅ **JavaScript**  
+✅ **PHP**  
+✅ **HTML5 / CSS3 / SASS / Bootstrap**  
+✅ **Photoshop / Illustrator**
 
 ---
 
 ### 📊 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobabexe&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
-</p>
 
-### ⚡ GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nobabexe&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobabexe&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+> 🟣 **PHP** ~42.47%  
+> 🔵 **CSS** ~32.52%  
+> 🟠 **HTML** ~17.71%  
+> 🟡 **JavaScript** ~4.29%  
+> 💗 **SCSS** ~2.65%  
+> ☕ **Java** ~0.36%
+
 
 ---
 
