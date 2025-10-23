@@ -6,12 +6,9 @@
 </p>
 
 
-**💻 Web Developer | 🧠 Lifelong Learner | ✨ Passionate Coder**
-
-> “Love to learn new skills. Now learning JavaScript.  
-> Full and fresh hand code is my power.  
-> Client satisfaction is my first priority.”
-
+👑 I am Web Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge 
 ---
 
 ### 👨‍💻 About Me
