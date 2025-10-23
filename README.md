@@ -12,13 +12,19 @@
 ---
 
 ### 📊 GitHub Stats
-![Nobab's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobab&show_icons=true&theme=tokyonight)
+![Nobab's GitHub stats](https://github-readme-stats-demolab.vercel.app/api?username=nobabexe&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nobabexe&theme=tokyonight)
+
+### 🧑‍💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobabexe&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:nobab@example.com">
+  <a href="mailto:emonet328@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/1CWrsfuESK/">
