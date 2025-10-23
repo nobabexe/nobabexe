@@ -7,9 +7,9 @@
 
  
 ###
-######👑 I am Web Developer
-######🖊️ Love to write codeS
-######🎤 Like to share my knowledge 
+###### 👑 I am Web Developer
+###### 🖊️ Love to write codeS
+###### 🎤 Like to share my knowledge 
 ---
 
 ### 👨‍💻 About Me
